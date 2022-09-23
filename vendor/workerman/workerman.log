@@ -1,0 +1,25 @@
+2022-09-23 07:32:31 pid:16186 Workerman[/home/scott/workspace/demo/public/index.php] start in DEBUG mode
+2022-09-23 07:32:37 pid:16186 Workerman[index.php] stopping ...
+2022-09-23 07:32:39 pid:16186 worker[none:16190] exit with status 9
+2022-09-23 07:32:39 pid:16186 Workerman[index.php] has been stopped
+2022-09-23 07:32:48 pid:16194 Workerman[/home/scott/workspace/demo/public/index.php] start in DEBUG mode
+2022-09-23 07:32:54 pid:16194 Workerman[index.php] stopping ...
+2022-09-23 07:32:56 pid:16194 worker[none:16198] exit with status 9
+2022-09-23 07:32:56 pid:16194 Workerman[index.php] has been stopped
+2022-09-23 07:34:07 pid:16202 Workerman[/home/scott/workspace/demo/public/index.php] start in DEBUG mode
+2022-09-23 07:35:31 pid:16202 Workerman[index.php] stopping ...
+2022-09-23 07:35:33 pid:16202 worker[none:16207] exit with status 9
+2022-09-23 07:35:33 pid:16202 Workerman[index.php] has been stopped
+2022-09-23 07:35:41 pid:16209 Workerman[public/index.php] start in DEBUG mode
+2022-09-23 07:35:55 pid:16209 Workerman[index.php] stopping ...
+2022-09-23 07:35:57 pid:16209 worker[none:16213] exit with status 9
+2022-09-23 07:35:57 pid:16209 Workerman[index.php] has been stopped
+2022-09-23 07:52:29 pid:16366 Workerman[public/index.php] start in DEBUG mode
+2022-09-23 07:54:30 pid:16366 Workerman[index.php] stopping ...
+2022-09-23 07:54:32 pid:16366 worker[none:16371] exit with status 9
+2022-09-23 07:54:32 pid:16366 worker[none:16370] exit with status 9
+2022-09-23 07:54:32 pid:16366 worker[none:16372] exit with status 9
+2022-09-23 07:54:32 pid:16366 worker[none:16373] exit with status 9
+2022-09-23 07:54:32 pid:16366 worker[none:16374] exit with status 9
+2022-09-23 07:54:32 pid:16366 Workerman[index.php] has been stopped
+2022-09-23 08:07:25 pid:16819 Workerman[/home/scott/workspace/demo/public/index.php] start in DEBUG mode

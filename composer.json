@@ -1,0 +1,27 @@
+{
+  "name": "root/demo",
+  "description": "Database",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "pengb",
+      "email": "pengbin_2012@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "illuminate/database": "8.x-dev",
+    "ext-pdo": "*",
+    "ext-sockets": "*",
+    "ext-pcntl": "*",
+    "ext-posix": "*",
+    "workerman/workerman": "dev-master"
+  },
+  "require-dev": {
+    "paulxu-cn/event-ide-helper": "dev-master"
+  }
+}
